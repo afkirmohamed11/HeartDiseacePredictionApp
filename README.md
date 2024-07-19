@@ -24,7 +24,7 @@ You can now view your Streamlit app in your browser.
  ```
 
 
-
+## Model architecture
 <img width="769" alt="image" src="src/images/initial-ml-process_055724.png">
 
 
