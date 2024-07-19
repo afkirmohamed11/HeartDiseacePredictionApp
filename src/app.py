@@ -35,7 +35,7 @@ def predict_heart_diseace(age, sex, cp, trestbps, chol, fbs, restecg, thalach, e
 
 
 
-image=Image.open("src/images/OIG.jpg")
+image=Image.open("src/images/OIG_055726.jpg")
 st.sidebar.info('The Heart Disease Prediction App utilizes user-provided health data and a logistic regression model to estimate the likelihood of heart disease. To view the dataset used in building the model, please click the option below the predict button.')
 st.sidebar.image(image)
 
