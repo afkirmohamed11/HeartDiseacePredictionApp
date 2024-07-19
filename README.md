@@ -1,4 +1,4 @@
-# Develop and Deploy A Heart Diseace Prediction Model using Python, Streamlit and Docker
+# Develop and Deploy A Heart Diseace Prediction App using Python, Streamlit and Docker
 
 
 ## Prerequisite:
@@ -25,13 +25,11 @@ You can now view your Streamlit app in your browser.
 
 
 
-<img width="769" alt="image" src="src/images/initial-ml-process.png">
+<img width="769" alt="image" src="src/images/initial-ml-process_055724.png">
 
 
-## The App
-## 1st screenshot
-<img width="769" alt="image" src="src/images/Screen1.png">
+## App Overview
+<img width="769" alt="image" src="src/images/Screen1_055726.png">
+<br>
 
-
-## 2nd screenshot
-<img width="769" alt="image" src="src/images/Screen2.png">
+<img width="769" alt="image" src="src/images/Screen2_055731.png">
