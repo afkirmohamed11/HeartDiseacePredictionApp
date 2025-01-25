@@ -33,3 +33,8 @@ You can now view your Streamlit app in your browser.
 <br>
 
 <img width="769" alt="image" src="src/images/Screen2_055731.png">
+
+## Connect and Collaborate
+
+Feel free to connect and collaborate on [LinkedIn](https://www.linkedin.com/in/mohamed-afkir-1bbb9729a)<br>
+or contact me via [email](mailto:mohamedafkir078@gmail.com)
